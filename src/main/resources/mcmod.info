@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hugobonobo",
+  "name": "Premier Mod Minecraft de Bonobo",
+  "description": "It's the first mod by Hugo Bonobo",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hugo Bonobo"],
+  "credits": "Merci à tous ceux qui voient ce message",
+  "logoFile": "Hugo_Bonobo.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
